@@ -2,14 +2,14 @@
 ![This is an image](https://ia.wampi.ru/2022/06/07/photo_2022-06-07-16.38.06.jpg)
 ## Junior Frontend Developer
 ## Contacts
-* **Telephone** +7 925 242 19 95
+* **Phone** +7 925 242 19 95
 * **Location** Moscow, Russia
 * **Telegram** @sophia_alive
 * **E-mail** zaynetdinova.s@gmail.com
 * **GitHub** [SafiyaZ](https://github.com/SafiyaZ)
 ## About Me
 Soft Skills - sociable, responsible, analytical skills, critical thinking. I work well in a team and independently.
-I want to become a frontend developer. I am actively studying. 
+I want to become a frontend developer. Now I'm actively studying and improve my skills.  
 ## Skills
 * Git
 * VS Code
