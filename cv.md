@@ -1,4 +1,5 @@
 # Safiya Zaynetdinova
+![This is an image](https://ia.wampi.ru/2022/06/07/photo_2022-06-07-16.38.06.jpg)
 ## Junior Frontend Developer
 ## Contacts
 * **Telephone** +7 925 242 19 95
